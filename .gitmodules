@@ -1,0 +1,4 @@
+[submodule "ovnicraft/odooec"]
+	path = ovnicraft/odooec
+	url = git@github.com:ovnicraft/odooec.git
+	branch = 12.0
